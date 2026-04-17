@@ -1,9 +1,12 @@
-Act as a professional career coach.
+You are an expert recruiter.
 
-Improve this CV to make it ATS-friendly.
+Rewrite the following CV for a {job role}.
 
-Requirements:
-- Use strong action verbs
-- Keep it concise
-- Optimize for readability
-- Tailor for {job role}
+Ensure:
+- ATS optimization
+- Strong bullet points
+- Quantifiable achievements
+- Clean formatting
+
+CV:
+{input}
