@@ -1,0 +1,14 @@
+# Content Generation Prompts
+
+## Blog Post Prompt
+"Write a high-quality blog post about [topic]. Use a professional tone, include an introduction, 3 main sections, and a conclusion."
+
+## Improved Version
+"Write a detailed blog post about [topic] for beginners. Include:
+- Clear introduction
+- 3 actionable sections
+- Real-world examples
+- Conclusion with key takeaways"
+
+## Key Improvement
+More structure = better output quality
